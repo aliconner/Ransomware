@@ -210,7 +210,7 @@ switch ($_POST['method']) {
          \\\ '::::' /
      SHC  `=':-..-'`
         AwesomeWare
- -[ Contact : to1337day[at]gmail.com ]-
+ -[ Contact : discord: ALiConner#6667 ]-
 </pre>
 <form action="" method="post" style=" text-align: center;">
       <label>Key : </label>
